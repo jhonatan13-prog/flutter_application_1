@@ -59,10 +59,272 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-  # Make sure the file exists at this path or update the extension if needed
-    - images/League-paper.jpg
-  #   - images/a_dot_ham.jpeg
-  #   - images/a_dot_ham.jpeg
+    # Imagens do APP
+    - assets/images/app/cenary.png
+    - assets/images/app/logosc.png
+
+    # Imagem dos clubes
+    # 🇧🇷 Alemanha
+    - assets/images/clubes/alemanha/bayern.png
+    - assets/images/clubes/alemanha/leverkusen.png
+    - assets/images/clubes/alemanha/borussia.png
+    - assets/images/clubes/alemanha/leipzig.png
+    - assets/images/clubes/alemanha/frankfurt.png
+    - assets/images/clubes/alemanha/stuttgart.png
+    - assets/images/clubes/alemanha/wolfsburg.png
+    - assets/images/clubes/alemanha/borussiaM.png
+    - assets/images/clubes/alemanha/freiburg.png
+    - assets/images/clubes/alemanha/werder.png
+    - assets/images/clubes/alemanha/union.png
+    - assets/images/clubes/alemanha/hoffenheim.png
+    - assets/images/clubes/alemanha/mainz.png
+    - assets/images/clubes/alemanha/augsburg.png
+    - assets/images/clubes/alemanha/heidenheim.png
+    - assets/images/clubes/alemanha/bochum.png
+    - assets/images/clubes/alemanha/kiel.png
+    - assets/images/clubes/alemanha/darmstadt.png
+    - assets/images/clubes/alemanha/hannover.png
+    - assets/images/clubes/alemanha/koln.png
+    - assets/images/clubes/alemanha/pauli.png
+    - assets/images/clubes/alemanha/hamburger.png
+    - assets/images/clubes/alemanha/dusseldorf.png
+    - assets/images/clubes/alemanha/hertha.png
+
+    # 🇦🇷 Arabia
+    - assets/images/clubes/arabia/hilal.png
+    - assets/images/clubes/arabia/nassr.png
+    - assets/images/clubes/arabia/ahli.png
+    - assets/images/clubes/arabia/ittihad.png
+    - assets/images/clubes/arabia/shabab.png
+    - assets/images/clubes/arabia/qadsiah.png
+    - assets/images/clubes/arabia/taawoun.png
+    - assets/images/clubes/arabia/ettifaq.png
+    - assets/images/clubes/arabia/riyadh.png
+
+    # 🇦🇷 Argentina
+    - assets/images/clubes/argentina/river.png
+    - assets/images/clubes/argentina/boca.png
+    - assets/images/clubes/argentina/racing.png
+    - assets/images/clubes/argentina/talleres.png
+    - assets/images/clubes/argentina/estudiantes.png
+    - assets/images/clubes/argentina/lanus.png
+    - assets/images/clubes/argentina/velez.png
+    - assets/images/clubes/argentina/independiente.png
+    - assets/images/clubes/argentina/newells.png
+    - assets/images/clubes/argentina/argentinos.png
+    - assets/images/clubes/argentina/belgrano.png
+    - assets/images/clubes/argentina/rosario.png
+    - assets/images/clubes/argentina/godoy.png
+    - assets/images/clubes/argentina/defensa.png
+    - assets/images/clubes/argentina/huracan.png
+    - assets/images/clubes/argentina/gimnasia.png
+    - assets/images/clubes/argentina/sanlorenzo.png
+    - assets/images/clubes/argentina/central.png
+    - assets/images/clubes/argentina/tucuman.png
+    - assets/images/clubes/argentina/union.png
+    - assets/images/clubes/argentina/instituto.png
+    - assets/images/clubes/argentina/barracas.png
+
+    # 🇧e Belgica
+    - assets/images/clubes/belgica/brugge.png
+    - assets/images/clubes/belgica/anderlecht.png
+    - assets/images/clubes/belgica/genk.png
+    - assets/images/clubes/belgica/gent.png
+    - assets/images/clubes/belgica/gilloise.png
+    - assets/images/clubes/belgica/antwerp.png
+
+    # Dinamarca
+    - assets/images/clubes/dinamarca/brodby.png  
+    - assets/images/clubes/dinamarca/midtjylland.png
+    - assets/images/clubes/dinamarca/kobenhavn.png
+
+    # Escocia
+    - assets/images/clubes/escocia/celtic.png  
+    - assets/images/clubes/escocia/rangers.png   
+
+    # Espanha
+    - assets/images/clubes/espanha/real.png
+    - assets/images/clubes/espanha/barcelona.png
+    - assets/images/clubes/espanha/atletico.png  
+    - assets/images/clubes/espanha/bilbao.png  
+    - assets/images/clubes/espanha/betis.png  
+    - assets/images/clubes/espanha/sociedad.png  
+    - assets/images/clubes/espanha/villareal.png  
+    - assets/images/clubes/espanha/girona.png  
+    - assets/images/clubes/espanha/valencia.png  
+    - assets/images/clubes/espanha/osasuna.png  
+    - assets/images/clubes/espanha/vallecano.png  
+    - assets/images/clubes/espanha/vigo.png  
+    - assets/images/clubes/espanha/mallorca.png  
+    - assets/images/clubes/espanha/sevilla.png  
+    - assets/images/clubes/espanha/getafe.png  
+    - assets/images/clubes/espanha/palmas.png  
+    - assets/images/clubes/espanha/leganes.png  
+    - assets/images/clubes/espanha/espanyol.png  
+    - assets/images/clubes/espanha/almeria.png  
+    - assets/images/clubes/espanha/valladolid.png  
+    - assets/images/clubes/espanha/cadiz.png  
+    - assets/images/clubes/espanha/oviedo.png  
+    - assets/images/clubes/espanha/granada.png  
+    - assets/images/clubes/espanha/levante.png  
+    - assets/images/clubes/espanha/gijon.png  
+    - assets/images/clubes/espanha/elche.png  
+    - assets/images/clubes/espanha/coruna.png
+
+    # EUA
+    - assets/images/clubes/eua/inter.png  
+    - assets/images/clubes/eua/seattle.png  
+    - assets/images/clubes/eua/lafc.png  
+    - assets/images/clubes/eua/lagalaxy.png  
+    - assets/images/clubes/eua/louis.png  
+    - assets/images/clubes/eua/charlotte.png  
+    - assets/images/clubes/eua/atlanta.png  
+    - assets/images/clubes/eua/cincinnati.png  
+    - assets/images/clubes/eua/nyredbulls.png  
+    - assets/images/clubes/eua/orlando.png  
+    - assets/images/clubes/eua/austin.png
+
+    # França
+    - assets/images/clubes/franca/psg.png  
+    - assets/images/clubes/franca/marseille.png  
+    - assets/images/clubes/franca/lille.png  
+    - assets/images/clubes/franca/lyon.png  
+    - assets/images/clubes/franca/nice.png  
+    - assets/images/clubes/franca/rennais.png  
+    - assets/images/clubes/franca/brestois.png  
+    - assets/images/clubes/franca/lens.png  
+    - assets/images/clubes/franca/nantes.png  
+    - assets/images/clubes/franca/strasbourg.png  
+    - assets/images/clubes/franca/toulouse.png  
+    - assets/images/clubes/franca/auxerre.png  
+    - assets/images/clubes/franca/montpellier.png  
+    - assets/images/clubes/franca/reims.png  
+    - assets/images/clubes/franca/havre.png  
+    - assets/images/clubes/franca/etienne.png  
+    - assets/images/clubes/franca/lorient.png  
+    - assets/images/clubes/franca/agers.png  
+    - assets/images/clubes/franca/metz.png  
+    - assets/images/clubes/franca/paris.png
+
+    # Inglaterra
+    - assets/images/clubes/inglaterra/city.png  
+    - assets/images/clubes/inglaterra/liverpool.png  
+    - assets/images/clubes/inglaterra/arsenal.png  
+    - assets/images/clubes/inglaterra/aston.png  
+    - assets/images/clubes/inglaterra/newcastle.png  
+    - assets/images/clubes/inglaterra/spurs.png  
+    - assets/images/clubes/inglaterra/chelsea.png  
+    - assets/images/clubes/inglaterra/man.png  
+    - assets/images/clubes/inglaterra/palace.png  
+    - assets/images/clubes/inglaterra/brighton.png  
+    - assets/images/clubes/inglaterra/westham.png  
+    - assets/images/clubes/inglaterra/brentford.png  
+    - assets/images/clubes/inglaterra/fulham.png  
+    - assets/images/clubes/inglaterra/bourne.png  
+    - assets/images/clubes/inglaterra/everton.png  
+    - assets/images/clubes/inglaterra/wolves.png  
+    - assets/images/clubes/inglaterra/ipswich.png  
+    - assets/images/clubes/inglaterra/leicester.png  
+    - assets/images/clubes/inglaterra/burnley.png  
+    - assets/images/clubes/inglaterra/leeds.png  
+    - assets/images/clubes/inglaterra/southampton.png  
+    - assets/images/clubes/inglaterra/sheffield.png  
+    - assets/images/clubes/inglaterra/middles.png  
+    - assets/images/clubes/inglaterra/sunderland.png  
+    - assets/images/clubes/inglaterra/luton.png  
+    - assets/images/clubes/inglaterra/coventry.png
+    - assets/images/clubes/inglaterra/westbrom.png  
+    - assets/images/clubes/inglaterra/hull.png  
+    - assets/images/clubes/inglaterra/norwich.png  
+    - assets/images/clubes/inglaterra/blackburn.png  
+    - assets/images/clubes/inglaterra/watford.png  
+    - assets/images/clubes/inglaterra/preston.png  
+    - assets/images/clubes/inglaterra/queens.png  
+    - assets/images/clubes/inglaterra/sheffieldwed.png  
+    - assets/images/clubes/inglaterra/birmingham.png  
+    - assets/images/clubes/inglaterra/millwall.png  
+    - assets/images/clubes/inglaterra/bristol.png  
+    - assets/images/clubes/inglaterra/cardiff.png  
+    - assets/images/clubes/inglaterra/swansea.png
+    - assets/images/clubes/inglaterra/stoke.png
+
+    # Italia
+    - assets/images/clubes/italia/inter.png  
+    - assets/images/clubes/italia/milan.png  
+    - assets/images/clubes/italia/atalanta.png  
+    - assets/images/clubes/italia/juventus.png  
+    - assets/images/clubes/italia/lazio.png  
+    - assets/images/clubes/italia/napoli.png  
+    - assets/images/clubes/italia/roma.png  
+    - assets/images/clubes/italia/fiore.png  
+    - assets/images/clubes/italia/torino.png  
+    - assets/images/clubes/italia/bologna.png  
+    - assets/images/clubes/italia/como.png  
+    - assets/images/clubes/italia/parma.png  
+    - assets/images/clubes/italia/cagliari.png  
+    - assets/images/clubes/italia/udinese.png  
+    - assets/images/clubes/italia/lecce.png  
+    - assets/images/clubes/italia/monza.png  
+    - assets/images/clubes/italia/verona.png  
+    - assets/images/clubes/italia/genoa.png  
+    - assets/images/clubes/italia/palermo.png  
+    - assets/images/clubes/italia/sassuolo.png  
+    - assets/images/clubes/italia/sampdoria.png  
+    - assets/images/clubes/italia/cremonese.png  
+    - assets/images/clubes/italia/venezia.png  
+    - assets/images/clubes/italia/spezia.png  
+    - assets/images/clubes/italia/salernitana.png
+    - assets/images/clubes/italia/pisa.png  
+    - assets/images/clubes/italia/modena.png
+
+    # Holanda
+    - assets/images/clubes/holanda/psv.png  
+    - assets/images/clubes/holanda/ajax.png  
+    - assets/images/clubes/holanda/feyenoord.png  
+    - assets/images/clubes/holanda/twente.png  
+    - assets/images/clubes/holanda/az.png  
+    - assets/images/clubes/holanda/nec.png
+
+    # Portugal
+    - assets/images/clubes/portugal/benfica.png  
+    - assets/images/clubes/portugal/sporting.png  
+    - assets/images/clubes/portugal/porto.png  
+    - assets/images/clubes/portugal/braga.png  
+    - assets/images/clubes/portugal/vitoria.png  
+    - assets/images/clubes/portugal/estoril.png  
+    - assets/images/clubes/portugal/arouca.png  
+    - assets/images/clubes/portugal/casapia.png  
+    - assets/images/clubes/portugal/gilvicente.png  
+    - assets/images/clubes/portugal/boavista.png  
+    - assets/images/clubes/portugal/moreirense.png  
+    - assets/images/clubes/portugal/avs.png  
+    - assets/images/clubes/portugal/santaclara.png  
+    - assets/images/clubes/portugal/famalicao.png  
+    - assets/images/clubes/portugal/rioave.png  
+    - assets/images/clubes/portugal/farense.png
+
+    # Turquia
+    - assets/images/clubes/Turquia/fenerbahce.png  
+    - assets/images/clubes/Turquia/galatasaray.png  
+    - assets/images/clubes/Turquia/besiktas.png  
+    - assets/images/clubes/Turquia/trabzonspor.png  
+    - assets/images/clubes/Turquia/medipol.png  
+    - assets/images/clubes/Turquia/kasimpasa.png  
+    - assets/images/clubes/Turquia/eyupspor.png  
+    - assets/images/clubes/Turquia/rizespor.png  
+    - assets/images/clubes/Turquia/samsunspor.png  
+    - assets/images/clubes/Turquia/sivasspor.png  
+    - assets/images/clubes/Turquia/gaziantep.png
+
+
+  fonts:
+    - family: OrbitronBlack
+      fonts:
+        - asset: assets/fonts/OrbitronBlack.ttf
+
+    - family: ChampionsBold
+      fonts:
+        - asset: assets/fonts/ChampionsBold.ttf
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
